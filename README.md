@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Welcome!
 
-<!--
-**daniel-leal/daniel-leal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here something about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Banpará as Software Architect
+- :muscle: I’m specialist in .NET, NodeJS and React
+- 💬 Ask me about: Development :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Follow me on my social networks:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/daniel-leal)](https://github.com/daniel-leal)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/daniel-borges-leal-58198087 
+)](linkedin.com/in/daniel-borges-leal-58198087/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/daniel_leal1)](https://twitter.com/daniel_leal1)
