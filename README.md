@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at Banpará as Software Architect
+- 🔭 I’m currently working at Banpará as Software Engineer
 - :muscle: I’m specialist in .NET, NodeJS and React
 - 🌱 I’m currently learning GraphQL & Typescript
 - 💬 Ask me about: Development :)
