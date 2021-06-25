@@ -4,13 +4,13 @@ Here something about me:
 
 - 🔭 I’m currently working at Banpará as Software Engineer
 - :muscle: I’m specialist in .NET, NodeJS and React
-- 🌱 I’m currently learning Elixir
+- 🌱 I’m currently learning Typescript
 - 💬 Ask me about: Development :)
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=daniel-leal&show_icons=true)
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=daniel-leal&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-leal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-leal&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
