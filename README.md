@@ -3,7 +3,7 @@
 Here something about me:
 
 - 🔭 I’m currently working at Banpará as Software Engineer
-- :muscle: I’m specialist in .NET, NodeJS and React
+- :muscle: I’m specialist in .NET and React
 - 🌱 I’m currently learning Elixir
 - 💬 Ask me about: Development :)
 
