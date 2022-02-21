@@ -3,7 +3,7 @@
 Here something about me:
 
 - 🔭 I’m currently working at Banpará as Software Engineer
-- :muscle: I’m working with Elixir .NET and React
+- :muscle: I’m working with Elixir and React
 - 💬 Ask me about: Development :)
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=daniel-leal&show_icons=true&theme=dracula)
