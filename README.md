@@ -3,7 +3,6 @@
 Here something about me:
 
 - 🔭 I’m currently working at BHub as Software Engineer
-- :muscle: I’m working with Python
 - 💬 Ask me about: Development :)
 
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=daniel-leal&show_icons=true&theme=dracula)
